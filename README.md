@@ -35,7 +35,8 @@ Salesforce DX source for a support-ticket prioritization and assignment applicat
 ### Support Ticket List
 Shows the Salesforce Support Tickets object with created support ticket records.
 
-![Uploading Screenshot 2026-10-10 225617.png…]()
+<img width="1051" height="522" alt="Screenshot 2026-10-10 225617" src="https://github.com/user-attachments/assets/9cf96a26-091a-4ff5-aeef-bf6dbcba4447" />
+
 
 
 ### Support Ticket Details
