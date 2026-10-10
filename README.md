@@ -35,22 +35,26 @@ Salesforce DX source for a support-ticket prioritization and assignment applicat
 ### Support Ticket List
 Shows the Salesforce Support Tickets object with created support ticket records.
 
-![Support Ticket List](docs/screenshots/support-ticket-list.png)
+![Uploading Screenshot 2026-10-10 225617.png…]()
+
 
 ### Support Ticket Details
 Shows the Support Ticket record including ticket number, priority, status, assigned agent, SLA status, description, AI analysis, and priority reason.
 
-![Support Ticket Details](docs/screenshots/support-ticket-details.png)
+<img width="1063" height="527" alt="Screenshot 2026-10-10 225632" src="https://github.com/user-attachments/assets/4f2a71e1-ad92-43eb-8879-abd77c7c9acb" />
+
 
 ### Salesforce Field Sales App
 Shows the Salesforce Field Sales App interface and CRM functionality.
 
-![Field Sales App](docs/screenshots/field-sales-app.png)
+<img width="1051" height="527" alt="Screenshot 2026-10-10 225640" src="https://github.com/user-attachments/assets/2ecfb2a7-3c6c-47d5-ad85-9a13f5c09cce" />
+
 
 ### Automated Follow-up Task
 Shows the automated urgent support ticket follow-up task associated with Support Ticket `ST-00001`.
 
-![Automated Follow-up Task](docs/screenshots/follow-up-task.png)
+<img width="1046" height="528" alt="Screenshot 2026-10-10 225650" src="https://github.com/user-attachments/assets/c4ad0846-dcf0-492d-8d7d-53ac93ef605f" />
+
 
 ## Important implementation details
 
